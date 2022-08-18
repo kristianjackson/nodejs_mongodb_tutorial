@@ -2,7 +2,7 @@
 
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
-import "../styles/global.css";
+import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (
